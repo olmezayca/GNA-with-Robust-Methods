@@ -23,7 +23,7 @@ text(sft$fitIndices[,1], sft$fitIndices[,5], labels=powers, cex=cex1,col="red")
 
 ### NETWORK CONSTRUCTIONS
 
-softPower = 8;
+softPower = 8;  # Choose the best soft threshold for another data
 
 #################### WGCNA
 
