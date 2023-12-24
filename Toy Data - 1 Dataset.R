@@ -13,7 +13,7 @@ library(flashClust)
 #Datasets:
 
 getwd()
-workingDir = "C:/Users/olmez/Desktop/female data/Data"
+workingDir = "" # Enter your working directory
 setwd(workingDir)
 options(stringsAsFactors = FALSE)
 
